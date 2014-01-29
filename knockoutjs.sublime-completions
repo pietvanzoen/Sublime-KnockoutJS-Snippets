@@ -1,0 +1,8 @@
+{
+	"scope": "source.js",
+
+	"completions":
+	[
+	{ "trigger": "a", "contents": "ko.computed(function() \n{$0 \n}, self);" }
+	]
+}
