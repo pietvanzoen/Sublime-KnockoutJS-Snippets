@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ko.computed(function() \{
+	$0
+\}, self);]]></content>
+	<tabTrigger>kocom</tabTrigger>
+	<scope>source.js</scope>
+	<description>knockoutjs dependent observable</description>
+</snippet>
